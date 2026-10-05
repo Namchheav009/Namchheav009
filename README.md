@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Ron Namchheav 👋
 
-<!--
-**Namchheav009/Namchheav009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Mobile & Web Developer
 
-Here are some ideas to get you started:
+I'm a developer focused on building modern web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- 📱 Flutter
+- ☕ Spring Boot
+- ⚛️ React
+- 🐍 Django
+- 🐘 PostgreSQL
+- ☁️ AWS & Supabase
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 NhamHealth
+
+A health and nutrition mobile application featuring meal management,
+wellness tracking, community recipe sharing, AI-powered meal analysis,
+and personalized recommendations.
+
+**Tech Stack:** Flutter • Spring Boot • PostgreSQL • Supabase • AWS
+
+---
+
+### 💰 Expense Tracker
+
+A full-stack personal finance application for managing expenses,
+income, wallets, budgets, and financial insights.
+
+**Tech Stack:** Laravel • React • TypeScript • PostgreSQL
+
+---
+
+### 🏨 Hotel Management System
+
+A hotel booking and management platform with room availability,
+reservations, payments, authentication, and role-based access.
+
+**Tech Stack:** Django • Python • Bootstrap
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 📧 Email
