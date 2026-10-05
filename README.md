@@ -1,33 +1,69 @@
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/Namchheav009/Namchheav009/main/github-banner.png"
-  width="100%" 
-  alt="Ron Namchheav GitHub Banner"
-/>
-
-<br><br>
+<!-- ===== HERO BANNER ===== -->
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Creating+Flutter+Mobile+Apps;Developing+Spring+Boot+APIs;Working+with+PostgreSQL+and+Supabase;Deploying+Applications+with+AWS"
-  alt="Typing SVG"
+  src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Ron%20Namchheav&fontSize=58&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=58&color=0:020617,30:0F172A,65:0F766E,100:22C55E&fontColor=ffffff&animation=fadeIn"
+  width="100%"
+  alt="Ron Namchheav Banner"
 />
+
+<!-- ===== ANIMATED TITLE ===== -->
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=Building+Modern+Web+Applications;Creating+Flutter+Mobile+Experiences;Developing+Secure+Spring+Boot+APIs;Working+with+PostgreSQL+%26+Supabase;Deploying+Applications+with+AWS;Turning+Ideas+into+Real+Products"
+  alt="Typing Animation"
+/>
+
+<br>
+
+<!-- ===== QUICK LINKS ===== -->
+
+<a href="https://my-portfolio-1-qarm.onrender.com/">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-16A34A?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/ron-namchheav-008942389/">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;
+
+<a href="mailto:namchheavron.info@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
 <br><br>
 
-<a href="https://my-portfolio-1-qarm.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<!-- ===== SMALL TECH BADGES ===== -->
 
-<a href="https://www.linkedin.com/in/ron-namchheav-008942389/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-<a href="mailto:namchheavron.info@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
+
+<i>Build • Learn • Improve • Repeat</i>
 
 </div>
+
+<br>
+
+---
 
 ---
 
