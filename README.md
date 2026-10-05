@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/Namchheav009/Namchheav009/main/assets/github-banner.png" 
+  src="https://raw.githubusercontent.com/Namchheav009/Namchheav009/main/github-banner.png"
   width="100%" 
   alt="Ron Namchheav GitHub Banner"
 />
