@@ -1,63 +1,54 @@
-<!-- ========================================================= -->
-<!-- GitHub Profile README — Ron Namchheav                      -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ron%20Namchheav&fontAlign=50&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Developer&descAlign=50&descAlignY=58&color=0:020617,45:0F172A,75:064E3B,100:22C55E&fontColor=ffffff&animation=fadeIn"
-  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Ron%20Namchheav&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20•%20Mobile%20Developer%20•%20Backend%20Developer&descAlign=50&descAlignY=68&color=0:111827,45:0F766E,100:22C55E&fontColor=ffffff"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Flutter+%7C+Dart;Spring+Boot+%7C+Java;Django+%7C+Python;Laravel+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Supabase;Building+Modern+Web+and+Mobile+Applications"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Creating+Flutter+Mobile+Apps;Developing+Spring+Boot+APIs;Working+with+PostgreSQL+%26+Supabase;Deploying+Applications+to+AWS"
+  alt="Typing animation"
 />
 
 <br><br>
 
 <a href="https://my-portfolio-1-qarm.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/My_Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ron-namchheav-008942389/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:namchheavron.info@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👋 Hello, I'm Ron
 
-Hi, I'm **Ron Namchheav**, a Business Information Technology student from Cambodia focused on building modern **mobile, web, and backend applications**.
+I'm a **Business Information Technology student and Full-Stack Developer** from Cambodia.
 
-I enjoy working across the complete development lifecycle — from **UI/UX and database design** to **backend APIs, authentication, frontend/mobile integration, deployment, and cloud services**.
+I enjoy turning ideas into real applications — from designing the user experience and database structure to building APIs, mobile interfaces, authentication systems, and deployment environments.
 
 ```yaml
-name: Ron Namchheav
-role: Full-Stack & Mobile Developer
-location: Phnom Penh, Cambodia
+developer:
+  name: Ron Namchheav
+  location: Phnom Penh, Cambodia
+  focus:
+    - Mobile Development
+    - Backend Development
+    - Full-Stack Web Development
+    - API Development
+    - Database Design
 
-focus:
-  - Flutter Mobile Development
-  - Spring Boot Backend Development
-  - Full-Stack Web Development
-  - REST API Development
-  - Database Engineering
-  - UI/UX Improvement
-  - Application Security
-
-currently_learning:
-  - Spring Boot Architecture
-  - Flutter Architecture
-  - AWS Deployment
-  - Docker
-  - System Design
-  - AI Integration
+currently_working_with:
+  - Flutter
+  - Spring Boot
+  - PostgreSQL
+  - Supabase
+  - AWS
